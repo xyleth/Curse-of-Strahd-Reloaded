@@ -82,7 +82,7 @@ If one or more of your players are using the [[Running the Adventure#Adventure H
 
 ## A2a. The Arrival
 ### Entrance
-<span class="citation"><em>This scene takes place in Appendix B: Area 1.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#1. Entrance|Appendix B: Area 1]].</em></span>
 
 Read all players the following text:
 
@@ -104,7 +104,7 @@ The entrance beyond the portico is otherwise as described in <span class="citati
 >
 > In exchange for the permission to roam far afield from the misty land of Barovia to claim sacrifices, Death House is bound to return to the valley after each hunting excursion. Should any adventurers successfully escape the house's bloodied altar, they inevitably emerge into Strahd's domain—assuring him of a worthy crop of prey to pursue. 
 ### Main Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#2. Main Hall|Appendix B: Area 2]].</em></span>
 
 When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
 
@@ -164,7 +164,7 @@ The grandfather clock then strikes six o’clock.
 A player who opens any outside-facing door or curtain in Death House, or who exits onto any balcony, finds that the exterior of the house has been surrounded by thick, fleshy tendrils. Although the tendrils can be damaged, more grow back swiftly to replace them, sealing the players inside. A player who inspects the tendrils finds that they appear to be extruding from beneath the house.
 ## A2b. The First Floor
 ### Cloakroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#2. Main Hall|Appendix B: Area 2]].</em></span>
 
 A player who investigates the cloakroom adjoining the Main Hall can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
 
@@ -185,7 +185,7 @@ for a celebration of the one-year anniversary of the Durst Mill.
 </div>
 
 ### Den of Wolves
-<span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#3. Den of Wolves|Appendix B: Area 3]].</em></span>
 
 This room is largely as described in <span class="citation">Den of Wolves (p. 212)</span>. As the players enter this room, read:
 
@@ -209,7 +209,7 @@ The first time that no players are looking at them, the three taxidermied wolves
 
 A player that succeeds on a DC 12 Intelligence (Nature) check can identify the large gray wolf as male and the other two as female.
 ### Dining Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 5.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#5. Dining Room|Appendix B: Area 5]].</em></span>
 
 Players that approach this door can hear the muffled sound of a lively dinner feast, including clinking glasses, quiet laughter, and distant conversation. If the players open or knock on the door, however, the room falls silent, leaving only the stillness and the cold grandeur of the room beyond.
 
@@ -223,7 +223,7 @@ This room is largely as described in <span class="citation">Dining Room (p. 213)
 
 A player who partakes in the food suffers no ill effects.
 ### Kitchen and Pantry
-<span class="citation"><em>This scene corresponds to Appendix B: Area 4.</em></span>
+<span class="citation"><em>This scene corresponds to [[20-appendix-b-death-house#4. Kitchen and Pantry|Appendix B: Area 4]].</em></span>
 
 This room is largely as described in <span class="citation">Kitchen and Pantry (p. 213)</span>. When the players enter this room, read:
 
@@ -248,7 +248,7 @@ A player who opens the pot finds it to contain a bottle of wine, a folded piece 
 If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall.
 ## A2c. The Second Floor
 ### Upper Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 6.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#6. Upper Hall|Appendix B: Area 6]].</em></span>
 
 This room is largely as described in <span class="citation">Upper Hall (p. 213)</span>. When the players enter this room, read:
 
@@ -259,7 +259,7 @@ This room is largely as described in <span class="citation">Upper Hall (p. 213)<
 </div>
 
 ### Servants’ Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 7.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#7. Servants' Room|Appendix B: Area 7]].</em></span>
 
 This room is largely as described in <span class="citation">Servants’ Room (p. 213)</span>. When the players enter this room, read:
 
@@ -270,7 +270,7 @@ This room is largely as described in <span class="citation">Servants’ Room (p.
 
 The basket contains a man's laundry, including fine suits, tunics, neckties, pants, and stockings. However, a single, much-smaller woman's slip appears to have been mixed in with the rest.
 ### Conservatory
-<span class="citation"><em>This scene takes place in Appendix B: Area 10.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#10. Conservatory|Appendix B: Area 10]].</em></span>
 
 Players that approach this door can hear the faint sound of a harpsichord playing from beyond the doors. If the players open or knock on the door, however, the music falls silent.
 
@@ -297,7 +297,7 @@ A player who inspects the fallen figurines finds that the toppled figurine has c
 
 Playing *Waltz for Klara* also causes the bookshelf in the [[#Library]] to swing open, exposing the locked secret door beyond. (The scraping sound is the sound of the bookshelf scraping against the floor.)
 ### Library
-<span class="citation"><em>This scene takes place in Appendix B: Area 8.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#8. Library|Appendix B: Area 8]].</em></span>
 
 This room is largely as described in **Library** (p. 213-14). When the players enter this room, read:
 
@@ -331,7 +331,7 @@ Once the bookshelf has been moved, the players can see a small panel made of dar
 
 The door cannot be opened unless the amber shard from the [[#Master Suite]] is placed into the niche. The secret door then swings open, allowing the players to enter the [[#Secret Room]].
 ### Secret Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 9.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#9. Secret Room|Appendix B: Area 9]].</em></span>
 
 This room is largely as described in <span class="citation">Secret Room (p. 214)</span>. When the players enter this room, read:
 
@@ -357,7 +357,7 @@ The players do not recognize the name "Strahd von Zarovich."
 ## A2d. The Third Floor
 As the players ascend the spiral stairs to the third floor, remind them that they can see down the center of the staircase all the way to the bottom floor.
 ### Balcony
-<span class="citation"><em>This scene takes place in Appendix B: Area 11.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#11. Balcony|Appendix B: Area 11]].</em></span>
 
 This room is largely as described in <span class="citation">Balcony (p. 214)</span>. When the players enter this room, read:
 
@@ -366,7 +366,13 @@ This room is largely as described in <span class="citation">Balcony (p. 214)</sp
 <p>A suit of black plate armor stands against one wall, draped in cobwebs and marked by age. Oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.</p>
 </div>
 
-When triggered, the **animated armor** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
+When triggered, the [[animated-armor|animated armor]] will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
+
+```encounter
+name: Balcony
+creatures:
+ - 1: Animated Armor
+```
 
 If the armor is thrown down to the first floor and the players do not reveal their presence atop the balcony, it is unable to observe them with its sixty feet of blindsight, and is too stupid to think to climb back up. 
 
@@ -379,7 +385,7 @@ A creature that is pushed over the edge of the balcony falls two stories, or twe
 > * ***Four Players.*** Reduce the armor’s HP to 21.
 > * ***Six Players.*** Increase the armor’s HP to 48.
 ### Master Suite
-<span class="citation"><em>This scene takes place in Appendix B: Area 12.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#12. Master Suite|Appendix B: Area 12]].</em></span>
 
 When a player first approaches this door, read:
 
@@ -418,11 +424,11 @@ See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more informatio
 
 ***The Balcony.*** A player that exits the bedroom onto the balcony sees only a wall of fleshy tendrils encompassing the exterior of the house. The tendrils are as described in [[#Main Hall]].
 ### Bathroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#13. Bathroom|Appendix B: Area 13]].</em></span>
 
 This room is as described in <span class="citation">Bathroom (p. 215)</span>.
 ### Storage Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#14. Storage Room|Appendix B: Area 14]].</em></span>
 
 This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter it, read:
 
@@ -431,8 +437,13 @@ This room is largely as described in <span class="citation">Storage Room (p. 215
 </div>
 
 When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
+```encounter
+name: Storage Room
+creatures:
+    - Broom of Animated Attack (CoS)
+```
 ### Nursemaid’s Suite
-<span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#15. Nursemaid's Suite|Appendix B: Area 15]].</em></span>
 
 This room is largely as described in <span class="citation">Nursemaid’s Suite (p. 217)</span>. When the players enter it, read:
 
@@ -474,7 +485,7 @@ The spirit can neither speak aloud nor exit the mirror. However, it shows no hos
 If the players ask the spirit for aid in reaching the basement or finding the “monster,” the spirit steps aside—vanishing from sight—and the secret door behind the mirror slowly swings open. The spirit does not return.
 ## A2e. The Attic
 ### Attic Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 16.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#16. Attic Hall|Appendix B: Area 16]].</em></span>
 
 This room is largely as described in <span class="citation">Attic Hall (p. 215)</span>. When the players enter this room, read:
 
@@ -485,7 +496,7 @@ This room is largely as described in <span class="citation">Attic Hall (p. 215)<
 
 The door leads to the [[#Spare Bedroom]].
 ### Spare Bedroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 17.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#17. Spare Bedroom|Appendix B: Area 17]].</em></span>
 
 This room is largely as described in <span class="citation">Spare Bedroom (p. 215)</span>. When the players first enter it, read:
 
@@ -501,7 +512,7 @@ The music box also contains two curled-up pieces of parchment. The first parchme
 
 As the players exit the room, the rocking chair begins to rock softly and the music box opens and begins to play. The sound of motherly humming floats through the air for two measures, but grows off-key and distorted before coming to a violent, screeching halt. The rocking chair then stops rocking.
 ### Children’s Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#20. Children's Room|Appendix B: Area 20]].</em></span>
 
 This room is largely as described in **Children’s Room** (p. 215-16).
 
@@ -558,7 +569,7 @@ When the secret door is revealed, Thorn shyly asks the players if he and Rose ca
 
 A player possessed by Rose can cast the cantrips in her diary, while a player possessed by Thorn can gain the effects of the _mage hand_ cantrip as an action, without the use of components. (The spectral hand is invisible.)
 ### Storage Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 18.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#18. Storage Room|Appendix B: Area 18]].</em></span>
 
 This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter this room, read:
 
@@ -572,11 +583,11 @@ A player inspecting the remains feels a cold breath on their shoulder and the un
 
 **_Milestone_**. Descending into Death House's dungeon level completes a story milestone. When the party gains access to the secret stairs, award each player 200 XP. 
 ### Guest Bedroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 19.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#19. Spare Bedroom|Appendix B: Area 19]].</em></span>
 
 This room is as described in <span class="citation">Spare Bedroom (p. 215)</span>.
 ### Secret Stairs
-<span class="citation"><em>This scene takes place in Appendix B: Area 21.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#21. Secret Stairs|Appendix B: Area 21]].</em></span>
 
 This room is largely as described in <span class="citation">Secret Stairs (p. 217)</span>. However, opening the secret door reveals only a stone slab on the opposite side, inset with a small bronze panel at approximately chest level. A small hollow niche identical to the one in the library lies at the panel's center, emanating a faint amber glow. When the niche is exposed, the amber shard from the [[#Master Suite]] glimmers faintly and swings in the air toward it, as though held aloft by an unseen force.
 
@@ -599,7 +610,7 @@ As the players descend the stairs, read:
 
 ## A2f. The Basement
 ### Family Crypts
-<span class="citation"><em>This scene takes place in Appendix B: Area 23.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#23. Family Crypts|Appendix B: Area 23]].</em></span>
 
 These rooms are largely as described in **Family Crypts** (p. 217-18). 
 
@@ -655,13 +666,13 @@ If the characters enter either crypt, read:
 
 The players cannot help Rose or Thorn’s ghosts find peace by placing their remains in their coffins. Neither [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] nor [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] finds these crypts comforting. Both prefer to leave as quickly as possible.
 ### Cult Initiates’ Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 24.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#24. Cult Initiates' Quarters|Appendix B: Area 24]].</em></span>
 
 This room is largely as described in <span class="citation">Cult Initiates’ Quarters (p. 218)</span>. 
 
 As the characters move to descend to the <span class="citation">Well and Cultist Quarters (p. 218)</span>, a sudden splashing sound can be heard—which then quickly subsides.
 ### Well and Cultist Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 25.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#25. Well and Cultist Quarters|Appendix B: Area 25]].</em></span>
 
 This room is largely as described in <span class="citation">Well and Cultist Quarters (p. 218)</span>. When the players enter this room, read:
 
@@ -677,7 +688,7 @@ If the players toss an object down the well and then turn away, they hear loud s
 
 Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
 ### Hidden Spiked Pit
-<span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#26. Hidden Spiked Pit|Appendix B: Area 26]].</em></span>
 
 This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. If the characters enter this area from [[#Well and Cultist Quarters]], read:
 
@@ -701,7 +712,7 @@ If the characters enter this area from [[#Ghoulish Encounter]], read:
 </div>
 
 ### Dining Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 27.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#27. Dining Hall|Appendix B: Area 27]].</em></span>
 
 This room is largely as described in <span class="citation">Dining Hall (p. 218)</span>. When the players enter this room, read: 
 
@@ -711,7 +722,7 @@ This room is largely as described in <span class="citation">Dining Hall (p. 218)
 </div>
 
 ### Larder
-<span class="citation"><em>This scene takes place in Appendix B: Area 28.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#28. Larder|Appendix B: Area 28]].</em></span>
 
 This area is largely as described in <span class="citation">Larder (p. 218)</span>. 
 
@@ -724,6 +735,12 @@ If the players disturb the grick, read:
 <p>It lets out a high-pitched, gurgling squeal as it hurls itself forward, writhing, tendon-like tentacles lashing toward your face.</p>
 </div>
 
+```encounter
+name: Larder
+creatures:
+ - 1: Grick
+```
+
 > [!combat]- **Balancing the Grick**
 > This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
@@ -731,7 +748,7 @@ If the players disturb the grick, read:
 > * ***Four Players.*** Reduce the grick’s HP to 22. Reduce its tentacles attack to 7 (2d6) damage and its beak attack to 4 (1d8) damage.
 > * ***Six Players.*** Increase the grick’s HP to 32. Increase its tentacles attack to 11 (2d8+2) and its bite attack to 6 (1d8+2).
 ### Ghoulish Encounter
-<span class="citation"><em>This scene takes place in Appendix B: Area 29.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#29. Ghoulish Encounter|Appendix B: Area 29]]</em></span>
 
 This area is largely as described in <span class="citation">Ghoulish Encounter (p. 218)</span>. When the players first approach this area, read: 
 
@@ -743,7 +760,11 @@ This area is largely as described in <span class="citation">Ghoulish Encounter (
 When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack.
 
 ![[Ghoulish Encounter Map.png]]
-
+```encounter
+name: Example
+creatures:
+ - 3: Ghoul
+```
 > [!combat]- **Balancing the Ghouls**
 > Due to the choke point, this is a series of three consecutive **mild** combat encounters against a party of five 2nd-level players, each of which will consume approximately 15% of the party's total maximum hit points (for a total of 45% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter(s) as follows:
 > 
@@ -764,7 +785,7 @@ If the players continue down the corridor, read:
 </div>
 
 ### Stairs Down
-<span class="citation"><em>This scene takes place in Appendix B: Area 30.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#30. Stairs Down|Appendix B: Area 30]].</em></span>
 
 This room is largely as described in <span class="citation">Stairs Down (p. 218)</span>. When the players approach this area, read:
 
@@ -773,7 +794,7 @@ This room is largely as described in <span class="citation">Stairs Down (p. 218)
 </div>
 
 ### Darklord’s Shrine
-<span class="citation"><em>This scene takes place in Appendix B: Area 31.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#31. Darklord's Shrine|Appendix B: Area 31]].</em></span>
 
 This room is largely as described in <span class="citation">Darklord’s Shrine (p. 218)</span>. However, remove the **mimic** from this area. In addition, when the players enter this room, read:
 
@@ -803,6 +824,11 @@ The shadows gain the following additional feature:
 
 ***Light Sensitivity.*** The shadow is immune to acid, cold, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage, while in darkness. The shadow is resistant to those damage types while in dim light, and is damaged by those damage types normally while in bright light.
 
+```encounter
+name: Example
+creatures:
+ - 5: Shadow
+```
 > [!combat]- **Balancing the Shadows**
 > This combat encounter is a **crushing** encounter against a party of five 2nd-level players, and will consume approximately 131% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
@@ -810,7 +836,7 @@ The shadows gain the following additional feature:
 > * ***Four Players.*** Reduce the number of shadows to four.
 > * ***Six Players.*** Increase the number of shadows to six.
 ### Hidden Trapdoor
-<span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#32. Hidden Trapdoor|Appendix B: Area 32]].</em></span>
 
 This room is largely as described in <span class="citation">Hidden Trapdoor (p. 219)</span>. When the players find and enter this area, read:
 
@@ -819,7 +845,7 @@ This room is largely as described in <span class="citation">Hidden Trapdoor (p. 
 </div>
 
 ### Cult Leader’s Den
-<span class="citation"><em>This scene takes place in Appendix B: Area 33.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#33. Cult Leaders' Den|Appendix B: Area 33]].</em></span>
 
 This room is largely as described in <span class="citation">Cult Leaders’ Den (p. 219)</span>. However, remove the **mimic** from this area. In addition, when the players enter this room, read:
 
@@ -828,7 +854,7 @@ This room is largely as described in <span class="citation">Cult Leaders’ Den 
 </div>
 
 ### Cult Leader’s Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 34.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#34. Cult Leaders' Quarters|Appendix B: Area 34]].</em></span>
 
 This room is largely as described in <span class="citation">Cult Leaders’ Quarters (p. 219)</span>. When the players enter this room, read:
 
@@ -841,6 +867,11 @@ The wardrobe contains several old robes, a pair of iron candlesticks, and an ope
 
 Folded inside the foot locker, on top of its other contents, is a **boneless** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 228)</span> made of the recognizable flayed skin of Gustav Durst. When the foot locker is opened, the **boneless** springs out to attack the nearest creature.
 
+```encounter
+name: Example
+creatures:
+ - 1: Boneless (VRGR)
+```
 > [!combat]- **Balancing the Boneless**
 > This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
@@ -851,7 +882,7 @@ Folded inside the foot locker, on top of its other contents, is a **boneless** (
 No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
 ## A2g. The Dungeon
 ### Reliquary
-<span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#35. Reliquary|Appendix B: Area 35]].</em></span>
 
 This room is largely as described in <span class="citation">Reliquary (p. 219)</span>. When the players enter this room, read:
 
@@ -865,7 +896,7 @@ This room is largely as described in <span class="citation">Reliquary (p. 219)</
 </div>
 
 ### Prison
-<span class="citation"><em>This scene takes place in Appendix B: Area 36.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#36. Prison|Appendix B: Area 36]].</em></span>
 
 This room is largely as described in <span class="citation">Prison (p. 219)</span>. When the players enter this room, read:
 
@@ -874,7 +905,7 @@ This room is largely as described in <span class="citation">Prison (p. 219)</spa
 </div>
 
 ### Portcullis
-<span class="citation"><em>This scene takes place in Appendix B: Area 37.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#37. Portcullis|Appendix B: Area 37]].</em></span>
 
 This area is largely as described in <span class="citation">Portcullis (p. 219)</span>. When the players approach this area, read:
 
@@ -884,7 +915,7 @@ This area is largely as described in <span class="citation">Portcullis (p. 219)<
 
 The wooden wheel that opens the portcullis remains on the western side of the gate (i.e., the side facing the [[#Ritual Chamber]]). However, the chain-link mechanism to open the portcullis has broken, preventing the players from proceeding without repairing it (e.g., by using Rose’s _mending_ cantrip) or lifting the portcullis by hand. (If the players lift the portcullis by hand and then release it, its weight causes it to shut once more unless propped open.)
 ### Ritual Chamber
-<span class="citation"><em>This scene takes place in Appendix B: Area 38.</em></span>
+<span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#38. Ritual Chamber|Appendix B: Area 38]].</em></span>
 
 This room is largely as described in <span class="citation">Ritual Chamber (p. 219)</span>. When the players enter this room, read:
 
@@ -1025,6 +1056,12 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
 <p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.</p>
 </div>
 
+```encounter
+name: The Flesh Mound
+creatures:
+ - 1: The Flesh Mound
+ - 1: Walter, the Graveborn
+```
 > [!combat]- **Balancing the Flesh Mound**
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **bruising** combat encounters against a party of five 2nd-level players and will consume approximately 28% of their total maximum hit points per phase (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
@@ -1057,6 +1094,11 @@ The spirit is recognizable as Gustav Durst. Gustav pleads with the players to gi
 
 If the players attempt to bypass or attack Gustav, a swarm of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
 
+```encounter
+name: Gustav at last
+creatures:
+ - 1: Poltergeist
+```
 > [!combat]- **Balancing the Poltergeist**
 > This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
