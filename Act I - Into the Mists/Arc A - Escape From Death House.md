@@ -323,7 +323,7 @@ A character that searches the room and succeeds on a DC 15 Wisdom (Perception) c
 
 > [!info]+ **Making Multiple Ability Checks**
 >
-> As the players explore Death House and the many secret places within the land of Barovia, don't forget the **Multiple Ability Checks** rule (<span class="citation">Dungeon Master's Guide, p. 237</span>)
+> As the players explore Death House and the many secret places within the land of Barovia, don't forget the [[09-running-the-game#Multiple Ability Checks|**Multiple Ability Checks**]] rule (<span class="citation">Dungeon Master's Guide, p. 237</span>)
 
 ***The Secret Door.*** The secret door in this room has two components. First, a player must pull on the switch as described in <span class="citation">Secret Door (p. 214)</span>. Doing so causes the bookshelf to swing forward, revealing a blank wooden wall behind it. 
 
