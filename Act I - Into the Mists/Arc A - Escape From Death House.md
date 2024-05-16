@@ -568,7 +568,7 @@ The dollhouse contains small dolls that depict tiny, twisted molds of any charac
 When the secret door is revealed, Thorn shyly asks the players if he and Rose can accompany them downstairs to aid them, and attempts to possess a friendly player if permitted. When Rose or Thorn attempts to possess a player, describe it as “a child’s tiny hand, desperately seeking the touch of another soul.” 
 
 A player possessed by Rose can cast the cantrips in her diary, while a player possessed by Thorn can gain the effects of the _mage hand_ cantrip as an action, without the use of components. (The spectral hand is invisible.)
-### Storage Room
+### Attic Storage Room
 <span class="citation"><em>This scene takes place in [[20-appendix-b-death-house#18. Storage Room|Appendix B: Area 18]].</em></span>
 
 This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter this room, read:
